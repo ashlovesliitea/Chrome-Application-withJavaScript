@@ -14,7 +14,7 @@ In this project, almost Every functions are implemented with Vanilla Javascript
 
 1. This application shows the weather where the user locates.
   (Weather API key needs to be hidden because of the privacy issues, so this function could not be properly working at github pages.
-   I Recommend you to generate your own API KEY and add it at config.js file)
+   I Recommend you to generate your own API KEY and add it at your config.js file)
 2. User can input their own name and the application saves it at Local storage of Chrome. Then it shows the greeting phrase which has the user's name in it. 
  - Example: Welcome, "Saved User name"!
 3. User can input/Delete their own to do list with the application.
